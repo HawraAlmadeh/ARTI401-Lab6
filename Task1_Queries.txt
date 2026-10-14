@@ -1,0 +1,18 @@
+========================Task 1===================
+
+68 ?- can_buy(200000, red).
+red Vehicles:
+chrysler
+true ;
+red Vehicles:
+datsun
+true ;
+false.
+
+69 ?- can_buy(100000, pink).
+false.
+=================================================
+
+
+
+
